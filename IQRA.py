@@ -63,7 +63,7 @@ logo = """
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-IQRA-\033[1;95m♡╭────•◈•───╮♡
 \033[1;92m....................Red.Moon......................
 \033[1;96m\033[1;95m	
-             nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
+\033[1;96m\033[1;95mnHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
           .MS?MMMMMMMMMMMMMMMMMM?MM~MMMMMMMMMSHMMMMMMMM(?"~\
           MMMMMH?MMMMMMMX*MM?MMX%MM/MMMMMM"HMMMMMMMMMMMMMMH
          MMMMMMMMMMMMMMMMMX*MX*MMMX?MMMMM(M!XMMMMMMMMMMMMMMMX
@@ -166,7 +166,7 @@ jalan("\033[1;91m   ┈┈-̴̬͖͇̟̟̼̱͙̠͉͗͑͌̃̿͗̈̿̿̏͗̑̀̀͘�
 print "\033[1;91m♡───────────♡\033[1;96mLogin IQRA\033[1;95m♡──•◈•───╯♡"
 
 CorrectUsername = "iqra"
-CorrectPassword = "love"
+CorrectPassword = "lovezk"
 
 loop = 'true'
 while (loop == 'true'):
